@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/afph-web-reactjs/static/css/main.d5f4cf09.chunk.css",
+    "main.js": "/afph-web-reactjs/static/js/main.9aaf24df.chunk.js",
+    "main.js.map": "/afph-web-reactjs/static/js/main.9aaf24df.chunk.js.map",
+    "runtime-main.js": "/afph-web-reactjs/static/js/runtime-main.3ad3c506.js",
+    "runtime-main.js.map": "/afph-web-reactjs/static/js/runtime-main.3ad3c506.js.map",
+    "static/js/2.1ccf60c0.chunk.js": "/afph-web-reactjs/static/js/2.1ccf60c0.chunk.js",
+    "static/js/2.1ccf60c0.chunk.js.map": "/afph-web-reactjs/static/js/2.1ccf60c0.chunk.js.map",
+    "static/js/3.3083fd76.chunk.js": "/afph-web-reactjs/static/js/3.3083fd76.chunk.js",
+    "static/js/3.3083fd76.chunk.js.map": "/afph-web-reactjs/static/js/3.3083fd76.chunk.js.map",
+    "index.html": "/afph-web-reactjs/index.html",
+    "static/css/main.d5f4cf09.chunk.css.map": "/afph-web-reactjs/static/css/main.d5f4cf09.chunk.css.map",
+    "static/js/2.1ccf60c0.chunk.js.LICENSE.txt": "/afph-web-reactjs/static/js/2.1ccf60c0.chunk.js.LICENSE.txt",
+    "static/media/img1.a8e1027e.jpg": "/afph-web-reactjs/static/media/img1.a8e1027e.jpg",
+    "static/media/img10.5c44ff66.jpg": "/afph-web-reactjs/static/media/img10.5c44ff66.jpg",
+    "static/media/img11.a1993b28.jpg": "/afph-web-reactjs/static/media/img11.a1993b28.jpg",
+    "static/media/img12.80cd945d.jpg": "/afph-web-reactjs/static/media/img12.80cd945d.jpg",
+    "static/media/img13.bc7f4787.jpg": "/afph-web-reactjs/static/media/img13.bc7f4787.jpg",
+    "static/media/img14.4469b5f7.jpg": "/afph-web-reactjs/static/media/img14.4469b5f7.jpg",
+    "static/media/img15.13f16571.jpg": "/afph-web-reactjs/static/media/img15.13f16571.jpg",
+    "static/media/img16.08523cf7.jpg": "/afph-web-reactjs/static/media/img16.08523cf7.jpg",
+    "static/media/img17.634278a5.jpg": "/afph-web-reactjs/static/media/img17.634278a5.jpg",
+    "static/media/img18.b27e3ede.jpg": "/afph-web-reactjs/static/media/img18.b27e3ede.jpg",
+    "static/media/img2.5dffbea3.jpg": "/afph-web-reactjs/static/media/img2.5dffbea3.jpg",
+    "static/media/img3.f0b13ee1.jpg": "/afph-web-reactjs/static/media/img3.f0b13ee1.jpg",
+    "static/media/img4.69e9d9c1.jpg": "/afph-web-reactjs/static/media/img4.69e9d9c1.jpg",
+    "static/media/img5.63063132.jpg": "/afph-web-reactjs/static/media/img5.63063132.jpg",
+    "static/media/img6.dd8c7aa1.jpg": "/afph-web-reactjs/static/media/img6.dd8c7aa1.jpg",
+    "static/media/img7.ea7576bd.jpg": "/afph-web-reactjs/static/media/img7.ea7576bd.jpg",
+    "static/media/img8.6087bc50.jpg": "/afph-web-reactjs/static/media/img8.6087bc50.jpg",
+    "static/media/img9.48acf7c8.jpg": "/afph-web-reactjs/static/media/img9.48acf7c8.jpg",
+    "static/media/logo.ca9862c5.jpg": "/afph-web-reactjs/static/media/logo.ca9862c5.jpg",
+    "static/media/reel.7aa8fa4a.mp4": "/afph-web-reactjs/static/media/reel.7aa8fa4a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ad3c506.js",
+    "static/js/2.1ccf60c0.chunk.js",
+    "static/css/main.d5f4cf09.chunk.css",
+    "static/js/main.9aaf24df.chunk.js"
+  ]
+}
